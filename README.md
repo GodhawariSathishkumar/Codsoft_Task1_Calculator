@@ -1,6 +1,6 @@
 # Codsoft_Task1_Calculator
 
-# Python Tkinter Calculator
+# Calculator
 
 This is a simple calculator program developed using Python's Tkinter library. It provides basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
